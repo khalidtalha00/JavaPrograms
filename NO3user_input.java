@@ -4,7 +4,7 @@ import java.util.Scanner;
 public  class NO3user_input {
     public static void main(String[] args) {
         System.out.println("Taking input from the user");
-        Scanner sc = new Scanner(System.in);                  //creating sc object from scanner class
+        Scanner sc = new Scanner(System.in);            //creating sc object from scanner class
         System.out.println("Enter first number:");
 //        int a=sc.nextInt();
         float a=sc.nextFloat();
