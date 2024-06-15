@@ -23,7 +23,7 @@ public class NO17Arrays {
 
         // another way to create and initialize an array
 
-        int marks1[]={2,45,67,89,90};
+        int [] marks1={2,45,67,89,90};
         System.out.println(marks1[4]);
         System.out.println(marks1[2]);
         System.out.println(marks1[0]);
